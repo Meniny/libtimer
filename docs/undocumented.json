@@ -1,0 +1,138 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": null,
+      "symbol": "GCDTimer",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 66,
+      "symbol": "GCDTimer",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 72,
+      "symbol": "GCDTimer.repeats",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 76,
+      "symbol": "GCDTimer.actionClosure",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 78,
+      "symbol": "GCDTimer.init(_:repeats:queue:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 96,
+      "symbol": "GCDTimer.repeatic(_:queue:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 107,
+      "symbol": "GCDTimer.fire()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 116,
+      "symbol": "GCDTimer.start()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 123,
+      "symbol": "GCDTimer.suspend()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 130,
+      "symbol": "GCDTimer.rescheduleRepeating(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 136,
+      "symbol": "GCDTimer.rescheduleAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 152,
+      "symbol": "GCDTimer.throttle(_:identifier:queue:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 170,
+      "symbol": "GCDTimer.cancelThrottlingTimer(identifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 182,
+      "symbol": "GCDCountDownTimer",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 194,
+      "symbol": "GCDCountDownTimer.init(_:times:queue:action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 214,
+      "symbol": "GCDCountDownTimer.start()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 218,
+      "symbol": "GCDCountDownTimer.suspend()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 222,
+      "symbol": "GCDCountDownTimer.reCountDown()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/elias/Documents/GitHub/libtimer/libtimer/GCDTimer.swift",
+      "line": 230,
+      "symbol": "DispatchTimeInterval.fromSeconds(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/elias/Documents/GitHub/libtimer"
+}
